@@ -1,0 +1,30 @@
+﻿@page "{id:int}"
+@model Bakery.Pages.OrderModel
+@{
+    ViewData["Title"] = "Place your order";
+}
+@section scripts{
+    <partial name="_ValidationScriptsPartial" />
+    <script src="~/js/order.js"></script>
+}
+<div class="progress mb-3" style="height: 2.5rem;">
+    <div class="progress-bar w-50" style="font-size: 1.5rem;" role="progressbar">Select Item</div>
+</div>
+<div class="row">
+    <h3>@Model.Product.Name</h3>
+    <div class="col-3"><img src="/images/products/@Model.Product.ImageName" alt="@Model.Product.Name" class="img-fluid">
+        <p>@Model.Product.Description</p>
+    </div>
+    <form class="col-9" method="post">
+  <div class="form-group mb-3">
+    <label asp-for="Quantity" class="form-label"></label>
+    <input asp-for="Quantity" class="form-control" /> 
+    <span asp-validation-for="Quantity"></span>
+  </div>
+  <input type="hidden" asp-for="UnitPrice" value="@Model.Product.Price" />
+  <div class="mb-3">
+    Total cost: <span id="orderTotal">@Model.Product.Price.ToString("c")</span>
+  </div>
+  <button type="submit" class="btn bn-sm btn-primary">Place order</button>
+</form>
+</div>

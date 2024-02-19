@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f1MxuXuxZcO0Ls0JCT1/KwNthQ+pz8UIN17pMOXOkneJZ1DVGvafiUGNMviRIKMk1F2VsPQgcM0MiHMhY4kvKw==",
+  "dgSpecHash": "yR7q8xXPPhZvXpkD1QMyi11hl5ximsBVBj+v0g7RdDE0UIKe7z+XFEOc/z5zQ0gCEame3eQKbdi9dV3uPKzYEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Bakery\\Bakery.csproj",
+  "projectFilePath": "F:\\Bakery-Order-System\\Bakery.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

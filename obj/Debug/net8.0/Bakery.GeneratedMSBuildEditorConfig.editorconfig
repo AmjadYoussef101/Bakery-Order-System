@@ -17,79 +17,79 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Bakery
 build_property.RootNamespace = Bakery
-build_property.ProjectDir = C:\Users\PC\source\repos\Bakery\
+build_property.ProjectDir = F:\Bakery-Order-System\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\PC\source\repos\Bakery
+build_property.MSBuildProjectDirectory = F:\Bakery-Order-System
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/PC/source/repos/Bakery/Pages/About.cshtml]
+[F:/Bakery-Order-System/Pages/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/source/repos/Bakery/Pages/Checkout.cshtml]
+[F:/Bakery-Order-System/Pages/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/source/repos/Bakery/Pages/Error.cshtml]
+[F:/Bakery-Order-System/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/source/repos/Bakery/Pages/Index.cshtml]
+[F:/Bakery-Order-System/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/source/repos/Bakery/Pages/Order.cshtml]
+[F:/Bakery-Order-System/Pages/Order.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/source/repos/Bakery/Pages/OrderSuccess.cshtml]
+[F:/Bakery-Order-System/Pages/OrderSuccess.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJTdWNjZXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/source/repos/Bakery/Pages/Privacy.cshtml]
+[F:/Bakery-Order-System/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/source/repos/Bakery/Pages/Products/Create.cshtml]
+[F:/Bakery-Order-System/Pages/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/source/repos/Bakery/Pages/Products/Delete.cshtml]
+[F:/Bakery-Order-System/Pages/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/source/repos/Bakery/Pages/Products/Details.cshtml]
+[F:/Bakery-Order-System/Pages/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/source/repos/Bakery/Pages/Products/Edit.cshtml]
+[F:/Bakery-Order-System/Pages/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/source/repos/Bakery/Pages/Products/Index.cshtml]
+[F:/Bakery-Order-System/Pages/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/source/repos/Bakery/Pages/Shared/Components/Basket/Default.cshtml]
+[F:/Bakery-Order-System/Pages/Shared/Components/Basket/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcQmFza2V0XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/source/repos/Bakery/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[F:/Bakery-Order-System/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/source/repos/Bakery/Pages/_ViewImports.cshtml]
+[F:/Bakery-Order-System/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/source/repos/Bakery/Pages/_ViewStart.cshtml]
+[F:/Bakery-Order-System/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/source/repos/Bakery/Pages/Shared/_Layout.cshtml]
+[F:/Bakery-Order-System/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ff4n8zp81y
